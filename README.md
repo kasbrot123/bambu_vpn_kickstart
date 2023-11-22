@@ -6,7 +6,8 @@ Studio_ software.
 ## Usage
 
 Copy the file 'confidentials.conf' to 'confidentials.py' and fill in the
-information about the printer. 
+information about the printer. Open Bambu Studio and run the script with python.
+The printer should now be visible.
 
 ### Troubles
 
