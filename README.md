@@ -15,6 +15,12 @@ you have specified the wrong model name. I found out the right model name by
 simply sniffing the discover-packages with Wireshark. You can use the response 
 of the printer and paste it in the script if necessary. 
 
+
+Values for _PRINTER_DEV_MODEL_:
+- Bambu Lab P1S: "C12"
+- (also spotted): "C11"
+
+
 ## Why
 
 The software does not find the printer when working with VPN connections. The 
