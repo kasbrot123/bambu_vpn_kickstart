@@ -1,3 +1,5 @@
+# Bambu Lab VPN Kickstart
+# bambulab vpn script
 
 # 22.11.2023, 18:32
 # kasbrot123
