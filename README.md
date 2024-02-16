@@ -14,7 +14,7 @@ The printer should now be visible.
 If Bambu Studio does not recognize your printer or the camera is not compatible
 you have specified the wrong model name. I found out the right model name by 
 simply sniffing the discover-packages with Wireshark. You can use the response 
-of the printer and paste it in the script if necessary. 
+of the printer and replace it in the script if necessary. 
 
 
 Values for _PRINTER_DEV_MODEL_:
